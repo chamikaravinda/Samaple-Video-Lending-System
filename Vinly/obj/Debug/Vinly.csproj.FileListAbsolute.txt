@@ -1,0 +1,253 @@
+C:\Users\chami\source\repos\Vinly\Vinly\bin\ApplicationInsights.config
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Vinly.dll.config
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Vinly.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Vinly.pdb
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\csc.exe
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\csc.exe.config
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\csc.rsp
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\csi.exe
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\csi.exe.config
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\csi.rsp
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.AppContext.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Console.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.IO.Compression.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.IO.Pipes.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Security.Claims.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.ValueTuple.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\vbc.exe
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\vbc.exe.config
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\vbc.rsp
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\VBCSCompiler.exe
+C:\Users\chami\source\repos\Vinly\Vinly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Antlr3.Runtime.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\EntityFramework.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\EntityFramework.SqlServer.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.Web.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Newtonsoft.Json.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Owin.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Helpers.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Mvc.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Optimization.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Razor.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.WebPages.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.WebPages.Razor.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\WebGrease.dll
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Helpers.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Mvc.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Optimization.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.Razor.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.WebPages.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Web.WebPages.Razor.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Newtonsoft.Json.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Antlr3.Runtime.pdb
+C:\Users\chami\source\repos\Vinly\Vinly\bin\EntityFramework.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\EntityFramework.SqlServer.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.AI.Web.xml
+C:\Users\chami\source\repos\Vinly\Vinly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chami\source\repos\Vinly\Vinly\obj\Debug\Vinly.csprojAssemblyReference.cache
+C:\Users\chami\source\repos\Vinly\Vinly\obj\Debug\Vinly.csproj.CoreCompileInputs.cache
+C:\Users\chami\source\repos\Vinly\Vinly\obj\Debug\Vinly.csproj.CopyComplete
+C:\Users\chami\source\repos\Vinly\Vinly\obj\Debug\Vinly.dll
+C:\Users\chami\source\repos\Vinly\Vinly\obj\Debug\Vinly.pdb
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\ApplicationInsights.config
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Vinly.dll.config
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Vinly.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Vinly.pdb
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\csc.exe
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\csc.exe.config
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\csc.rsp
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\csi.exe
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\csi.exe.config
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\csi.rsp
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.AppContext.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Collections.Immutable.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Console.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.IO.Compression.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.IO.FileSystem.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.IO.Pipes.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Reflection.Metadata.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Security.AccessControl.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Security.Claims.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.ValueTuple.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Xml.XPath.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\vbc.exe
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\vbc.exe.config
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\vbc.rsp
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\VBCSCompiler.exe
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\roslyn\VBCSCompiler.exe.config
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Antlr3.Runtime.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\EntityFramework.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\EntityFramework.SqlServer.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.DependencyCollector.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.Web.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.WindowsServer.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.ApplicationInsights.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Google.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Web.Infrastructure.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Newtonsoft.Json.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Owin.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Helpers.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Mvc.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Optimization.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Razor.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.WebPages.Deployment.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.WebPages.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.WebPages.Razor.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\WebGrease.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Helpers.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Mvc.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Optimization.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Razor.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.WebPages.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.WebPages.Deployment.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.WebPages.Razor.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Newtonsoft.Json.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Antlr3.Runtime.pdb
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\EntityFramework.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\EntityFramework.SqlServer.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Google.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.DependencyCollector.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.WindowsServer.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.AI.Web.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.csproj.CoreCompileInputs.cache
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.csproj.CopyComplete
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.pdb
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.csprojAssemblyReference.cache
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.Migrations.initial.resources
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.csproj.GenerateResource.cache
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.Migrations.custometrValidationAdd.resources
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.Migrations.dbupdate.resources
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\obj\Debug\Vinly.Migrations.movieModelUpdated.resources
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\AutoMapper.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Net.Http.Formatting.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Http.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Http.WebHost.dll
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\AutoMapper.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Net.Http.Formatting.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Http.xml
+D:\SLIIT STUDIES\extra\ASP.net\vinly\Vinly\bin\System.Web.Http.WebHost.xml

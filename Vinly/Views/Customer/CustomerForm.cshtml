@@ -1,0 +1,51 @@
+﻿@model Vinly.ViewModels.CustomerFormViewModel
+@{
+    ViewBag.Title = "New";
+}
+
+<h1>@Model.PageTitle</h1>
+
+@using (Html.BeginForm("Save", "Customer"))
+{
+    @Html.ValidationSummary(true,"Please fix the following Errors")
+    //true is give to not to show the model errors at top 
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.BirthDay)
+        @Html.TextBoxFor(m => m.Customer.BirthDay, "{0:d MMM yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.BirthDay)
+    </div>
+    //here we use TextBoxFor method insted of the normal html text box is tha it gives the validations included in the model.
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.MembershipTypeId)
+        @Html.DropDownListFor(m => m.Customer.MembershipTypeId, new SelectList(Model.MembershipType, "Id", "Name"), "Select Membership Type", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.MembershipTypeId)
+
+    </div>
+    <div class="checkbox">
+
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsletter) Is Subscribed For Newsletter ?
+        </label>
+
+    </div>
+
+    @Html.HiddenFor(m => m.Customer.Id)
+    @Html.AntiForgeryToken()//add a encripted token for validation
+
+    <button type="submit" class="btn btn-primary">Save</button>
+
+
+}
+@section scripts
+{
+    
+    @Scripts.Render("~/bundles/jqueryval")
+
+}
